@@ -1,0 +1,18 @@
+#exemplo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 50px;
+    text-align: center;
+    box-shadow: 0px 25px 20px -15px black;
+    
+    /* Contorno do box
+    
+    -webkit-text-stroke: 0.01px;
+    -webkit-text-stroke-color: white; 
+    */
+}
